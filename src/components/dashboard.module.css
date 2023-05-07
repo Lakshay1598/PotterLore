@@ -1,0 +1,29 @@
+.dashBoard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    color: white;
+    z-index: 50;
+    position: relative;
+    
+}
+
+.ptrmore{
+    font-size: 1.5em;
+    display: flex;
+    justify-content: center;
+}
+
+.layout{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+
+
+
+
+

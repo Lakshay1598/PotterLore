@@ -1,0 +1,27 @@
+.button{
+    outline: none;
+    background: rgba(0,0,0,0.3);
+    border: 2px solid wheat;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: 'MedievalSharp', cursive;
+    font-size: larger;
+    padding: 7px;
+    margin: 10px ;
+}
+
+.bttn{
+    display: flex;
+}
+
+.nonSel{
+    color: white;
+    background: rgba(0,0,0,0.3) ;
+}
+
+.selectedBtn{
+    color: #0f172a;
+    background: white;
+}
